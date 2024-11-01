@@ -1,0 +1,6 @@
+The file comprises metadata of N scientific articles (where each line contains the title and abstract of each article). For each article read the title and abstract to assess whether the article complies with the following criteria: 1) The article is focused on fitness to drive a motor vehicle. 2) The article is focused on intrinsic factors that affect a person's fitness to drive. 3) The article focused on older adults.
+Please, answer each of the following questions with one of these options: Yes, No or Doubt if you are not sure. And provide an explanation of why you chose your answer. The questions are the following:
+1) Is the article focused on fitness to drive?
+2) Is the article focused on intrinsic factors of a person’s fitness to drive a motor vehicle?
+3) Is the article focused on older adults?
+Provide the answer of the N articles (one article per line) in the format: title, answer to criteria 1, answer to criteria 2,  answer to criteria 3, explanation to answer 1, explanation of answer 2, explanation to answer 3. And generate a csv file with the format I specified.
